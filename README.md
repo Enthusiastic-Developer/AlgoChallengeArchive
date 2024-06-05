@@ -23,14 +23,7 @@ In this repository, we aim to provide a comprehensive collection of coding quest
 
 ## Contributing
 
-We welcome contributions from the community! If you have a coding question or challenge that you'd like to add to this repository, or if you've solved one of the existing questions and would like to contribute your solution, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/add-new-question`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new question'`).
-5. Push to the branch (`git push origin feature/add-new-question`).
-6. Create a new Pull Request.
+We welcome contributions from the community! If you have a coding question or challenge that you'd like to add to this repository, or if you've solved one of the existing questions and would like to contribute your solution, please follow the guidelines outlined in our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## Questions Categories
 
@@ -55,3 +48,11 @@ Feel free to solve the questions in your preferred programming language and shar
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Links to Markdown Files
+
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security Policy](SECURITY.md)
+- [Pull Request Template](PULL_REQUEST_TEMPLATE.md)
+- [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md)
+- [Feature Request Template](.github/ISSUE_TEMPLATE/feature_request.md)

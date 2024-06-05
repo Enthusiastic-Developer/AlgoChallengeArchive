@@ -54,5 +54,5 @@ This project is licensed under the [MIT License](LICENSE).
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Security Policy](SECURITY.md)
 - [Pull Request Template](PULL_REQUEST_TEMPLATE.md)
-- [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md)
-- [Feature Request Template](.github/ISSUE_TEMPLATE/feature_request.md)
+- [Bug Report Template](https://github.com/Enthusiastic-Developer/AlgoChallengeArchive/blob/development/.github/ISSUE_TEMPLATE/bug_report.md)
+- [Feature Request Template](https://github.com/Enthusiastic-Developer/AlgoChallengeArchive/blob/development/.github/ISSUE_TEMPLATE/feature_request.md)
